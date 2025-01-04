@@ -1,0 +1,87 @@
+/* Themify Customize Styling */
+body {	
+	background-repeat: repeat; 
+}
+#headerwrap {	
+	background-color: transparent;background-image: url(http://wenxingzhao.com/wp-content/uploads/2018/04/书法-wxz.png);
+	background-size: cover; 
+}
+#header {	
+	background-color: transparent;
+	font-family:Georgia, 'Times New Roman', Times, serif;	letter-spacing:8px;
+	font-style:normal;
+	font-size:2px;
+	line-height:80px;
+	text-transform:capitalize;
+	color: #a3a0a0; 
+}
+#header a:hover {		text-decoration:underline;
+ 
+}
+#headerwrap.fixed-header, .transparent-header #headerwrap.fixed-header {	
+	background-color: transparent; 
+}
+#headerwrap.fixed-header #header, #headerwrap.fixed-header #site-description {	
+	font-family:Georgia, 'Times New Roman', Times, serif;	font-weight:normal;
+	font-size:24px;
+	line-height:2px;
+	text-align:left; 
+}
+#headerwrap.fixed-header #header {	
+	color: #ffffff; 
+}
+#headerwrap.fixed-header #header a {		font-weight:bold;
+	text-decoration:underline;
+	font-weight:bold;
+ 
+}
+#headerwrap.fixed-header #header a:hover {		text-decoration:underline;
+
+	color: #ffffff; 
+}
+#site-logo, #site-logo a, .header-horizontal #site-logo, .header-minbar #site-logo, .header-leftpane #site-logo, .header-slide-out #site-logo, .boxed-compact #site-logo, .header-top-bar #site-logo img {		width: 150px; 
+}
+#site-logo, #site-logo a, .header-horizontal #site-logo, .header-minbar #site-logo, .header-leftpane #site-logo, .header-slide-out #site-logo, .boxed-compact #site-logo, .header-top-bar #site-logo a {		width: 150px; 
+}
+#site-description {		text-align:right; 
+}
+#main-nav {		position:relative;
+
+	left: 2px; 
+}
+#main-nav a {	
+	font-family:'Times New Roman', Times, serif;	font-weight:500;
+	letter-spacing:2px;
+	font-style:normal;
+	font-size:30px;
+	line-height:200%;
+	text-transform:capitalize;	text-align:left;margin-top: auto;
+	margin-left: 15%; 
+}
+#main-nav-wrap #main-nav a:hover, #main-nav-wrap #main-nav > li > a:hover {	
+	color: #ffffff; 
+}
+#main-nav-wrap #main-nav .current_page_item > a, #main-nav .current-menu-item > a, #main-nav > .current_page_item > a, #main-nav > .current-menu-item > a {	
+	color: #050505; 
+}
+#main-nav-wrap #main-nav .current_page_item a:hover,  #main-nav .current-menu-item a:hover {	
+	color: #633f3f; 
+}
+@media screen and (max-width: 1280px) { /* Themify Customize Styling */
+#site-logo, #site-logo a, .header-horizontal #site-logo, .header-minbar #site-logo, .header-leftpane #site-logo, .header-slide-out #site-logo, .boxed-compact #site-logo, .header-top-bar #site-logo img {		width: 150px; 
+}
+#site-logo, #site-logo a, .header-horizontal #site-logo, .header-minbar #site-logo, .header-leftpane #site-logo, .header-slide-out #site-logo, .boxed-compact #site-logo, .header-top-bar #site-logo a {		width: 150px; 
+}
+ }@media screen and (max-width: 768px) { /* Themify Customize Styling */
+#site-logo, #site-logo a, .header-horizontal #site-logo, .header-minbar #site-logo, .header-leftpane #site-logo, .header-slide-out #site-logo, .boxed-compact #site-logo, .header-top-bar #site-logo img {		width: 150px; 
+}
+#site-logo, #site-logo a, .header-horizontal #site-logo, .header-minbar #site-logo, .header-leftpane #site-logo, .header-slide-out #site-logo, .boxed-compact #site-logo, .header-top-bar #site-logo a {		width: 150px; 
+}
+ }@media screen and (max-width: 680px) { /* Themify Customize Styling */
+#site-logo, #site-logo a, .header-horizontal #site-logo, .header-minbar #site-logo, .header-leftpane #site-logo, .header-slide-out #site-logo, .boxed-compact #site-logo, .header-top-bar #site-logo img {		width: 150px; 
+}
+#site-logo, #site-logo a, .header-horizontal #site-logo, .header-minbar #site-logo, .header-leftpane #site-logo, .header-slide-out #site-logo, .boxed-compact #site-logo, .header-top-bar #site-logo a {		width: 150px; 
+}
+ }#headerwrap #mobile-menu.sidemenu-on nav li { 
+	color: #ffecc7; }#headerwrap #mobile-menu.sidemenu-on nav a:hover, #headerwrap #mobile-menu.sidemenu-on nav .current-menu-item > a { 
+	color: #f5a30a; }
